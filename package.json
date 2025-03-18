@@ -1,0 +1,33 @@
+{
+  "name": "to-do-planner",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A productivity and daily planner app with habit tracking, progress tasks, and monthly analytics",
+  "author": "manya-ydv",
+  "license": "MIT",
+  "keywords": [
+    "productivity",
+    "planner",
+    "todo",
+    "habit-tracker",
+    "react",
+    "recharts"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.10.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.0"
+  }
+}
