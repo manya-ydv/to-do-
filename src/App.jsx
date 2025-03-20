@@ -30,3 +30,7 @@ export default function App() {
     </div>
   );
 }
+
+// TODO: add calendar sidebar
+// TODO: add task list
+// TODO: habit system
